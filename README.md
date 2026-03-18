@@ -10,13 +10,13 @@
 
 ## 🙋 Sobre mim
 
-> 🎯 Desenvolvedor Full Stack apaixonado por tecnologia desde os **12 anos de idade**, quando escrevi minha primeira linha de código e descobri que programar é como compor músicas — cada solução é uma obra única.
+> 🎯 Desenvolvedor Full Stack apaixonado por tecnologia desde os **12 anos de idade**, quando uni música e programação desenvolvendo uma webrádio do completo zero usando PHP, MySQL e Audio Streamming.
 
-- 💻 &nbsp; Programando profissionalmente há mais de uma década
-- 🎸 &nbsp; **Músico multiinstrumentista** — guitarra, baixo, teclado e violão são meus aliados nas horas de descanso
-- 🍳 &nbsp; **Cozinheiro amador** nas horas vagas — acredito que cozinhar e programar exigem a mesma criatividade e precisão
+- 💻 &nbsp; Programando há mais de uma década
+- 🎸 &nbsp; **Músico multiinstrumentista** — violão, baixo, teclado e bateria são meus aliados nas horas de descanso
+- 🍳 &nbsp; **Cozinheiro amador** nas horas vagas coloco a criatividade pra jogo de uma forma diferente (é como minha terapida)
 - 🚀 &nbsp; Sempre explorando novas tecnologias e desafios
-- 🌎 &nbsp; Acredito em software que faz diferença na vida das pessoas
+- 🌎 &nbsp; YHWH codou o mundo
 
 ---
 
@@ -49,6 +49,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
 &nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 &nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+&nbsp;<img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </p>
 
 ### ☁️ Cloud & Serviços
@@ -89,11 +90,11 @@
 ## 🎵 Além do código...
 
 ```
-🎸  Guitarra        ████████████  Principal
+🥁  Bateria         ███████░░░░░  Intermediário
 🎹  Teclado         ███████░░░░░  Intermediário
 🎸  Baixo           ████████░░░░  Avançado
 🎸  Violão          ████████████  Principal
-🍳  Cozinhando      █████████░░░  Especialidade: massas e grelhados
+🍳  Cozinhando      █████████░░░  Especialidade: lanches, pizzas e tex-mex
 ```
 
 > *"A música me ensinou a ouvir antes de falar. A cozinha me ensinou a equilibrar ingredientes. A programação une os dois — criatividade com precisão."*
